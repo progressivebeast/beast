@@ -1,9 +1,10 @@
 import React from 'react'
+import Container from '../container'
 
 const App = () => {
     return (
         <div>
-            Learn react
+            <Container />
         </div>
     )
 }
